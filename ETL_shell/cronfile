@@ -1,0 +1,1 @@
+* * * * * /bin/bash /home/DataPipeline_shell/cp-access-log.sh >> /var/log/cron.log 2>&1
